@@ -100,3 +100,4 @@ chain.invoke({
 <img width="731" height="54" alt="image" src="https://github.com/user-attachments/assets/b88a7e91-2bc8-4080-a345-fd2dda1e6e0c" />
 
 ### RESULT:
+Thus, the LangChain Expression Language (LCEL) was successfully implemented using Simple Chain and Complex Chain. The expressions accepted prompt parameters, processed the inputs through a language model, and generated meaningful responses using an output parser. The working of both chains was demonstrated successfully through real-world examples.
