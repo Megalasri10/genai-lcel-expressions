@@ -19,7 +19,9 @@ Design and implement LangChain Expression Language (LCEL) using Simple Chain and
 #### STEP 5: Invoke the Chain: Run chain.invoke() with a question to retrieve context-based answers using the LangChain pipeline.
 
 ### PROGRAM:
+
 Name: Megala M S
+
 Reg NO: 212225040230
 
 Simple Chain
@@ -44,6 +46,7 @@ chain = prompt | model | output_parser
 
 chain.invoke({"topic": "Python Programming"})
 ```
+
 Complex Chain
 
 ```
@@ -90,10 +93,12 @@ chain.invoke({
 ### OUTPUT:
 
 Simple Chain
+
 <img width="741" height="532" alt="image" src="https://github.com/user-attachments/assets/17500927-7927-4290-b073-20ef2ffc4d78" />
 
 
 Complex Chain
+
 <img width="731" height="54" alt="image" src="https://github.com/user-attachments/assets/b88a7e91-2bc8-4080-a345-fd2dda1e6e0c" />
 
 ### RESULT:
