@@ -86,9 +86,7 @@ chain = RunnableMap({
 chain.invoke({
     "question": "What is Machine Learning?"
 })
-chain.invoke({
-    "question": "What is Machine Learning?"
-})
+
 ```
 ### OUTPUT:
 
